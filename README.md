@@ -1,0 +1,4 @@
+application-cookbook
+====================
+
+Application cookbook
