@@ -20,5 +20,5 @@ Dependencies
 
 License and Authors
 ===================
-Author: Ishag Alexanian Email: ishag.alexanian@disney.com
+Author: Ishag Alexanian Email: ishagalexanian@gmail.com
 
